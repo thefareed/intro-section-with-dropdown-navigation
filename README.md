@@ -17,15 +17,19 @@ Users should be able to:
 ![](./screenshots/desktop-design.png)
 
 - Desktop Design with Dropdown:
+
 ![](./screenshots/desktop-design-dropdown.png)
 
 - Mobile Design:
+
 ![](./screenshots/mobile-design.png)
 
 - Mobile Design with menu collapsed:
+
 ![](./screenshots/mobile-menu-collapsed.png)
 
 - Mobile Design with menu expanded:
+
 ![](./screenshots/mobile-menu-expanded.png)
 
 
@@ -34,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Challenge URL: [Add Challenge URL here](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5/hub/intro-section-with-dropdown-navigation-4mluecyKXv)
-- Live Site URL: [Add live site URL here](https://intro-section-with-dropdownnavigation.netlify.app/)
+- Challenge URL: [Challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5/hub/intro-section-with-dropdown-navigation-4mluecyKXv)
+- Live Site URL: [Site](https://intro-section-with-dropdownnavigation.netlify.app/)
 
 
 ### Built with
@@ -45,8 +49,8 @@ Users should be able to:
 - JavaScript
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nott7)
-- Twitter - [@yourusername](https://www.twitter.com/gabrynott)
-- LinkedIn - [](https://www.linkedin.com/in/gabriele-notonica-a28080253/)
+- Frontend Mentor - [@nott7](https://www.frontendmentor.io/profile/nott7)
+- Twitter - [@gabrynott](https://www.twitter.com/gabrynott)
+- LinkedIn - [Gabriele Notonica](https://www.linkedin.com/in/gabriele-notonica-a28080253/)
 
 
