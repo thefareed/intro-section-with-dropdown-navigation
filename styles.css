@@ -9,6 +9,7 @@
 
 body {
   font-family: "Epilogue", sans-serif;
+  background-color: var(--almost-white);
 }
 
 .hover__state:hover {
@@ -58,7 +59,7 @@ svg {
   width: 65%;
   overflow-x: hidden;
   height: 100%;
-  background-color: white;
+  background-color: var(--almost-white);
   display: none;
   transition: 0.3s ease-in-out;
 }
@@ -180,9 +181,9 @@ svg {
   display: none;
   position: absolute;
   margin-top: 20px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.377);
   min-width: 160px;
-  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.066);
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.075);
   z-index: 1;
   border-radius: 10px;
 }
